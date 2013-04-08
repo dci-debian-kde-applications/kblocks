@@ -1,0 +1,17 @@
+.TH KBLOCKS 6
+.SH NAME
+kblocks \- KDE Blocks Game
+.SH SYNOPSIS
+.B kblocks
+falling blocks game
+.I [Qt-options] [KDE-options]
+.SH DESCRIPTION
+.B kblocks
+is a single player falling blocks puzzle game, a Tetris-like
+replacement for KSirtet.
+.so kdeopt.part
+.SH SEE ALSO
+More detailed user documentation is available from
+.BR help:/kblocks
+(either enter this URL into \fBkonqueror\fP, or run `khelpcenter
+help:/kblocks').

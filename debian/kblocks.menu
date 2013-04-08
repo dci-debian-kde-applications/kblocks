@@ -1,0 +1,9 @@
+?package(kblocks):\
+	needs="x11"\
+	section="Games/Blocks"\
+	hints="KDE,Blocks"\
+	title="KBlocks"\
+	icon32x32="/usr/share/pixmaps/kblocks.xpm"\
+	icon16x16="/usr/share/pixmaps/kblocks-16.xpm"\
+	command="/usr/games/kblocks"
+
