@@ -3,7 +3,6 @@
 kblocks \- KDE Blocks Game
 .SH SYNOPSIS
 .B kblocks
-falling blocks game
 .I [Qt-options] [KDE-options]
 .SH DESCRIPTION
 .B kblocks
