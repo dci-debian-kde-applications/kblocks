@@ -1,3 +1,5 @@
+../icons/kblocks-16.xpm /usr/share/pixmaps
+../icons/kblocks.xpm /usr/share/pixmaps
 usr/games/kblocks
 usr/share/applications/kde4/kblocks.desktop
 usr/share/doc/kde/HTML/en/kblocks/common
