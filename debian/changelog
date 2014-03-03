@@ -1,10 +1,10 @@
-kblocks (4:4.12.3-1~) UNRELEASED; urgency=medium
+kblocks (4:4.12.3-1) experimental; urgency=medium
 
   * New upstream release.
   * Do not disable an empty test set.
   * Bump Standards-Version to 3.9.5, no changes needed.
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 28 Feb 2014 23:27:30 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Mar 2014 00:05:21 +0100
 
 kblocks (4:4.11.3-1) unstable; urgency=low
 
