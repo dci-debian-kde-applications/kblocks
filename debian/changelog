@@ -1,3 +1,13 @@
+kblocks (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream beta release.
+  * Fix watch urls for new release location.
+  * Update Vcs urls for the new repository location.
+  * Bump Standards-Version to 3.9.6, no changes needed.
+  * Update the maintainer.
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sat, 22 Nov 2014 23:28:29 +0100
+
 kblocks (4:4.14.2-2) UNRELEASED; urgency=medium
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
