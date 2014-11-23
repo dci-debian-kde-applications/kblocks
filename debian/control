@@ -23,7 +23,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kblocks.git
 Package: kblocks
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: falling blocks game
  KBlocks is a single player falling blocks puzzle game, a Tetris-like
  replacement for KSirtet.

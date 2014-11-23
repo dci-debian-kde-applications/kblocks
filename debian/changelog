@@ -5,6 +5,7 @@ kblocks (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
   * Update Vcs urls for the new repository location.
   * Bump Standards-Version to 3.9.6, no changes needed.
   * Update the maintainer.
+  * Recommend khelpcenter instead of khelpcenter4.
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sat, 22 Nov 2014 23:28:29 +0100
 
