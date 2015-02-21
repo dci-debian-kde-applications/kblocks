@@ -1,4 +1,4 @@
-kblocks (4:14.12.2-1~) UNRELEASED; urgency=medium
+kblocks (4:14.12.2-1) experimental; urgency=medium
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * Remove myself from Uploaders.
@@ -6,7 +6,7 @@ kblocks (4:14.12.2-1~) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * New upstream release (14.12.2).
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 21 Feb 2015 16:50:04 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 Feb 2015 23:20:11 +0100
 
 kblocks (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
