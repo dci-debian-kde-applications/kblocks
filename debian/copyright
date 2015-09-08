@@ -5,70 +5,15 @@ Upstream-Contact: Albert Astals Cid <aacid@kde.org>
 Source: http://www.kde.org/download/
 
 Files: *
-Copyright: 2007,2008, Mauricio Piacentini <piacentini@kde.org>
+Copyright: 1989-1991, Free Software Foundation, Inc
+           2009-2010, Mauricio Piacentini <mauricio@tabuleiro.com>
+           2010, University Freiburg
+           2010, Zhongjie Cai <squall.leonhart.cai@gmail.com>
 License: GPL-2+
 
 Files: doc/*
 Copyright: 2007,2008, Mauricio Piacentini <piacentini@kde.org>
 License: GFDL-1.2+
-
-Files: AI/*
-Copyright: 2010, University Freiburg
-License: GPL-2+
-
-Files: FieldInterface.h
-       GameLogicInterface.h
-       GamePlayerInterface.h
-       KBlocksAppThread.cpp
-       KBlocksAppThread.h
-       KBlocksConfigManager.cpp
-       KBlocksConfigManager.h
-       KBlocksDefine.cpp
-       KBlocksDefine.h
-       KBlocksDisplay.cpp
-       KBlocksDisplay.h
-       KBlocksDummyAI.cpp
-       KBlocksDummyAI.h
-       KBlocksField.cpp
-       KBlocksField.h
-       KBlocksGameLogic.cpp
-       KBlocksGameLogic.h
-       KBlocksGameMessage.cpp
-       KBlocksGameMessage.h
-       KBlocksGameRecorder.cpp
-       KBlocksGameRecorder.h
-       KBlocksGameReplayer.cpp
-       KBlocksGameReplayer.h
-       KBlocksKeyboardPlayer.cpp
-       KBlocksKeyboardPlayer.h
-       KBlocksLayout.cpp
-       KBlocksLayout.h
-       KBlocksNetClient.cpp
-       KBlocksNetClient.h
-       KBlocksNetPlayer.cpp
-       KBlocksNetPlayer.h
-       KBlocksNetServer.cpp
-       KBlocksNetServer.h
-       KBlocksPiece.cpp
-       KBlocksPieceGenerator.cpp
-       KBlocksPieceGenerator.h
-       KBlocksPiece.h
-       KBlocksPlayManager.cpp
-       KBlocksPlayManager.h
-       KBlocksPlayNetwork.cpp
-       KBlocksPlayNetwork.h
-       KBlocksRepWin.cpp
-       KBlocksRepWin.h
-       KBlocksScore.cpp
-       KBlocksScore.h
-       KBlocksSingleGame.cpp
-       KBlocksSingleGame.h
-       KBlocksSinglePlayer.cpp
-       KBlocksSinglePlayer.h
-       PieceInterface.h
-       SingleGameInterface.h
-Copyright: 2010, Zhongjie Cai <squall.leonhart.cai@gmail.com>
-License: GPL-2+
 
 Files: debian/*
 Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
