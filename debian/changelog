@@ -1,10 +1,11 @@
-kblocks (4:15.04.3-1~) UNRELEASED; urgency=medium
+kblocks (4:15.08.0-1~) UNRELEASED; urgency=medium
 
   * New upstream release (15.04.0).
   * New upstream release (15.04.1).
   * New upstream release (15.04.3).
+  * New upstream release (15.08.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 03 Jul 2015 16:18:09 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 14:58:23 +0200
 
 kblocks (4:14.12.2-1) experimental; urgency=medium
 
