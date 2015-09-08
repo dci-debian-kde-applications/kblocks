@@ -1,9 +1,4 @@
 ../icons/kblocks-16.xpm /usr/share/pixmaps
 ../icons/kblocks.xpm /usr/share/pixmaps
-usr/games/kblocks
-usr/share/applications/kde4/kblocks.desktop
-usr/share/doc/kde/HTML/*/kblocks/
-usr/share/icons/*/*/apps/kblocks.*
-usr/share/kde4/apps/kblocks/
-usr/share/kde4/config.kcfg/kblocks.kcfg
-usr/share/kde4/config/kblocks.knsrc
+etc/*
+usr/*
