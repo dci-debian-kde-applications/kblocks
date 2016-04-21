@@ -1,10 +1,11 @@
-kblocks (4:15.12.3-1~1.gbpebed22) UNRELEASED; urgency=medium
+kblocks (4:16.04.0-1~1.gbp0c9310) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @ebed225dd32167abfb672ee1e93bf004382cab13 **
+  ** SNAPSHOT build @0c931074caefd8b54b972a791573710a9b24b269 **
 
   * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:53:41 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 02:50:13 +0200
 
 kblocks (4:15.12.1-1) experimental; urgency=medium
 
