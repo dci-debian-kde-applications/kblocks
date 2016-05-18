@@ -1,3 +1,9 @@
+kblocks (4:16.04.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:12:45 +0200
+
 kblocks (4:15.12.2-1~) UNRELEASED; urgency=medium
 
   * New upstream release (15.12.2).
