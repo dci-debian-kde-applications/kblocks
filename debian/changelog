@@ -1,10 +1,6 @@
-kblocks (4:16.04.0-1~2.gbpcafe6f) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @cafe6f27b8be40af1407b33b9fc3369012081c1d **
+kblocks (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @0c931074caefd8b54b972a791573710a9b24b269 **
-
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
@@ -14,7 +10,7 @@ kblocks (4:16.04.0-1~2.gbpcafe6f) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 12:50:14 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 19:13:23 +0200
 
 kblocks (4:15.12.1-1) experimental; urgency=medium
 
