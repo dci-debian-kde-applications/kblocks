@@ -1,3 +1,11 @@
+kblocks (4:16.08.0-1~1.gbpad081b) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @ad081b7b788098e300e10f48d64a11c7c2c66ccb **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 20:50:17 +0200
+
 kblocks (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
