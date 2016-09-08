@@ -1,10 +1,16 @@
-kblocks (4:16.08.0-1~1.gbpad081b) UNRELEASED; urgency=medium
+kblocks (4:16.08.1-1~1.gbpb6c00a) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @b6c00ac9b180045398782f060994ef0d02f3ba0c **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @ad081b7b788098e300e10f48d64a11c7c2c66ccb **
 
   * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 20:50:17 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 20:50:35 +0200
 
 kblocks (4:16.04.0-1) unstable; urgency=medium
 
