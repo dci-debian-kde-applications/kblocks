@@ -33,6 +33,7 @@ plugs:
         target: kf5
 parts:
     kblocks:
+        after: [kde-frameworks-5-dev, kde-frameworks-5-env]
         plugin: cmake
         build-packages:
         - kdoctools-dev
