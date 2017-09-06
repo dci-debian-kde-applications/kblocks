@@ -45,6 +45,8 @@ Package: kblocks
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: falling blocks game
  KBlocks is a single player falling blocks puzzle game, a Tetris-like
  replacement for KSirtet.
