@@ -1,10 +1,11 @@
-kblocks (4:17.08.1-1~) UNRELEASED; urgency=medium
+kblocks (4:17.08.1-1~1) UNRELEASED; urgency=medium
 
   * Bump Standards-Version to 4.1.0.
   * Update upstream metadata
   * New upstream release (17.08.1).
+  * Update uploaders list as requested by MIA team (Closes: #879313)
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 06 Sep 2017 16:31:25 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 31 Oct 2017 17:59:08 +0100
 
 kblocks (4:17.04.3-0neon) xenial; urgency=medium
 
